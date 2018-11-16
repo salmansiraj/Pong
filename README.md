@@ -8,6 +8,7 @@ Multiplayer Game in Python
 ## Gameplay
 * Two players are allowed to use specific keys to move respective board and hit a ball back and forth
 * Once the ball coincides the boards (x,y) coordinates, the ball is reflected 
+* Ball is reflected off edges off horizontal edges of screen and starts from the center if passes vertical screen
 * If the ball passes the coordinates of one board, the opposite board gets a point
 
 
